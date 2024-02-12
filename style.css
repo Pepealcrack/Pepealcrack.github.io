@@ -30,8 +30,8 @@ button {
   font-size: 16px;
   margin: 10px;
   cursor: pointer;
-  background-color: #009705; /* Verde */
-  color: white;
+  background-color: wheat; /* Verde */
+  color: black;
   border: 2px solid #ffc0cb; /* Bordes rosa */
   border-radius: 10px; /* Esquinas redondeadas */
 }
@@ -41,9 +41,9 @@ button {
   font-size: 16px;
   margin: 10px;
   cursor: pointer;
-  background-color: #ff5733; /* Rojo */
-  color: white;
-  border: 2px solid #ffc0cb; /* Bordes rosa */
+  background-color: pink; /* Rojo */
+  color: black;
+  border: 2px solid lightpink; /* Bordes rosa */
   border-radius: 10px; /* Esquinas redondeadas */
 }
 #noBtn span {
