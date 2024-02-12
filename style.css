@@ -1,4 +1,5 @@
 body {
+  font-family: 'Bebas Neue', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,6 +15,8 @@ body {
 #gifContainerImg {
   width: 60%;
   height: 60%;
+  border-radius: 14%;
+  box-shadow: 10px 0 5px -2px rgba(0, 0, 0, 0.5);
 }
 
 button {
